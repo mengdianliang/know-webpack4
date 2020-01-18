@@ -1,0 +1,13 @@
+{
+  "name": "webpack-dev10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "less": "^3.10.3"
+  }
+}
